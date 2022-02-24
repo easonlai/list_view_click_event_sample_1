@@ -19,3 +19,8 @@ You can create a Flutter project from scratch. Then you can copy lib/main.dart t
 ```shell
 flutter create list_view_click_event_sample_1
 ```
+
+To run web debug with Chrome browser.
+```shell
+flutter run -d chrome
+```
